@@ -35,7 +35,7 @@ public class Arifmetics extends JFrame implements ActionListener {
             textField.setText(total);
         }
         //clearfields();
-    }
+    } // add commit
     public Arifmetics() {
         Container container = getContentPane();
         container.setLayout(new FlowLayout());
